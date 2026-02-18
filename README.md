@@ -10,19 +10,6 @@ Pengguna dapat melihat daftar produk, menambahkan produk ke keranjang, mengatur 
 
 ---
 
-## Tujuan Pembelajaran
-
-Melalui project ini diharapkan mahasiswa mampu:
-
-* Membuat model data menggunakan Dart
-* Mengimplementasikan ChangeNotifier untuk state management
-* Menggunakan Provider untuk berbagi state antar halaman
-* Mengelola interaksi UI berbasis state
-* Menghitung total harga secara dinamis
-* Mengimplementasikan navigasi antar halaman Flutter
-
----
-
 ## Fitur Aplikasi
 
 * Model produk
@@ -141,3 +128,4 @@ Project ini menunjukkan bahwa penggunaan Provider mempermudah pengelolaan state 
 Struktur pemisahan model dan halaman membantu meningkatkan keterbacaan kode serta memudahkan pengembangan lanjutan seperti integrasi database atau API.
 
 ---
+
