@@ -155,6 +155,3 @@ Beberapa peningkatan yang dapat dilakukan:
 
 ---
 
-## Author
-
-Mahasiswa Pengembang Aplikasi Flutter
