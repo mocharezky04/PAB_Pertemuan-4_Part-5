@@ -141,17 +141,3 @@ Project ini menunjukkan bahwa penggunaan Provider mempermudah pengelolaan state 
 Struktur pemisahan model dan halaman membantu meningkatkan keterbacaan kode serta memudahkan pengembangan lanjutan seperti integrasi database atau API.
 
 ---
-
-## Pengembangan Lanjutan (Opsional)
-
-Beberapa peningkatan yang dapat dilakukan:
-
-* Penyimpanan cart ke local storage
-* Integrasi backend API
-* Autentikasi pengguna
-* Animasi UI
-* Filter kategori produk
-* Sistem pembayaran
-
----
-
