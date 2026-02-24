@@ -35,15 +35,45 @@ Checklist Penilaian:
 
 WAJIB (70 points):
 * [x] Add to cart from product list
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/83513cdc-351b-430c-9a8c-05ce3690ed64" width="600"/>
+</p>
+
 * [x] Show cart items dengan quantity
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d1d64d4-308e-415d-a32b-aa9df5ca2147" width="600"/>
+</p>
+
 * [x] Update quantity (+/-)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc1c1bf7-b47f-41c3-b43a-b47a7080a439" width="600"/>
+</p>
+
 * [x] Remove items from cart
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/98e37f0e-5883-4038-b6b9-fad2d9d84a1c" width="600"/>
+</p>
+
 * [x] Display total price correctly
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/030d041b-aaba-4974-9fe7-b369a8f001e5" width="600"/>
+</p>
 
 BONUS (+30 points):
 * [x] Search/Filter (+10) - Search products by name
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9bc438e2-a4e5-4832-964b-75cd34c549e0" width="600"/>
+</p>
+
 * [x] Categories (+10) - Filter products by category
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a578dc50-993b-4363-b5c6-09a6772184a5" width="600"/>
+</p>
+
 * [x] Checkout Page (+10) - Order summary + form
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/77080b70-e4f3-4cf7-8add-408a57bc34af" width="600"/>
+</p>
 
 ---
 
